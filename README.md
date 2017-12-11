@@ -1,7 +1,21 @@
 <TABLE>
-  <TR>
-	<TD><IMG SRC="20170601_真相部落連結_1.jpg" WIDTH="440" HEIGHT="945" BORDER="0" ALT=""></TD>
-	<TD><IMG SRC="20170601_真相部落連結_2.jpg" WIDTH="440" HEIGHT="945" BORDER="0" ALT=""></TD>
-  </TR>
+     <tbody>
+     <tr>
+       <td>內容部份1</td>
+       <td>內容部份2</td>
+	  <td>內容部份1</td>
+       <td>內容部份2</td>
+     </tr>
+     <tr>
+       <td>內容部份3</td>
+       <td>內容部份4</td>
+	     <td>內容部份3</td>
+       <td>內容部份4</td>
+     </tr>
+   </tbody>
+ </table>
+
+
+ </BODY>
 
   </TABLE>
