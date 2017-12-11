@@ -1,7 +1,7 @@
 <TABLE>
      <tbody>  
             <tr>
-       <TD><IMG SRC="https://github.com/goodabc/news/blob/master/Bt_Emule/bt.jpg" WIDTH="440" HEIGHT="945" BORDER="0" ALT=""></TD>  
+       <TD><IMG SRC="https://github.com/goodabc/news/blob/master/Bt_Emule/bt.jpg"></TD>  
          </tr>
      <tr>
       <td><a href='https://github.com/goodabc/news/blob/master/Bt_Emule/Bt_Emule.zip'>utorrent(bt)、電騾程式</a></td>
