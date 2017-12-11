@@ -3,8 +3,8 @@
 
      <tbody>
      <tr>
-       <td>今日點擊、中國禁聞<></td>
-       <td>[BT]<a href=Bt_Emule/DLXWJD_2017week48.torrent></td>
+       <td>今日點擊、中國禁聞2017-1127~1203</td>
+       <td>[JRDJ_2017week48.torrent]<a href=./Bt_Emule/JRDJ_2017week48.torrent</a><br></td>
 	  <td>內容部份1</td>
        <td>內容部份2</td>
      </tr>
