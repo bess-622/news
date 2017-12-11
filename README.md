@@ -18,9 +18,4 @@
        <td><a href='https://github.com/goodabc/news/blob/master/Bt_Emule/DLXWJD_2017week48.torrent'>DLXWJD_2017week48.torrent</a></td>
      </tr>                  
    </tbody>
- </table>
-
-
- </BODY>
-
   </TABLE>
