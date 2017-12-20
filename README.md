@@ -3,7 +3,7 @@
        <IMG SRC="https://github.com/goodabc/news/blob/master/Bt_Emule/bt.jpg">
       <IMG SRC="https://github.com/goodabc/news/blob/master/Bt_Emule/y_0034.gif">         
        <td><a href='https://github.com/goodabc/news/blob/master/Bt_Emule/Bt_Emule.zip?raw=true'>utorrent(bt)、电骡程式</a></td>
-       <td><a href='https://github.com/goodabc/news/blob/master/Bt_Emule/ed2k.txt'>ed2k+utorrent_magnet.txt?raw=true</a></td>
+       <td><a href='https://github.com/goodabc/news/blob/master/Bt_Emule/ed2k.txt?raw=true'>ed2k+utorrent_magnet.txt</a></td>
    <tr>
        <td>一周日期</td>
        <td>今日点击、中國禁聞一周MP4下载</td>
