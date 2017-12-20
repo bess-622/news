@@ -10,9 +10,14 @@
 	  <td>大陆新闻解讀、热点互动、世事关心、新闻周刊..MP4下载</td>
      </tr>
          <tr>
+       <td>2017-1211~1217</td>
+       <td><a href='https://github.com/goodabc/news/blob/master/Bt_Emule/JRDJ_2017week50.torrent'>JRDJ_2017week50.torrent</a></td>
+       <td><a href='https://github.com/goodabc/news/blob/master/Bt_Emule/DLXWJD_2017week50.torrent'>DLXWJD_2017week50.torrent</a></td>     
+     <tr>	      
+         <tr>
        <td>2017-1204~1210</td>
        <td><a href='https://github.com/goodabc/news/blob/master/Bt_Emule/JRDJ_2017week49.torrent'>JRDJ_2017week49.torrent</a></td>
-       <td><a href='https://github.com/goodabc/news/blob/master/Bt_Emule/JRDJ_2017week49.torrent'>JRDJ_2017week49.torrent</a></td>     
+       <td><a href='https://github.com/goodabc/news/blob/master/Bt_Emule/DLXWJD_2017week49.torrent'>DLXWJD_2017week49.torrent</a></td>     
      <tr>
        <td>2017-1127~1203</td>
        <td><a href='https://github.com/goodabc/news/blob/master/Bt_Emule/JRDJ_2017week48.torrent'>JRDJ_2017week48.torrent</a></td>
