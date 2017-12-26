@@ -10,8 +10,8 @@
      </tr>
  <tr>
        <td>2017-1218~1224</td>
-       <td><a href='https://github.com/goodabc/news/blob/master/Bt_Emule/JRDJ_2017week51.torrent?raw=true'>JRDJ_2017week50.torrent</a></td>
-       <td><a href='https://github.com/goodabc/news/blob/master/Bt_Emule/DLXWJD_2017week51.torrent?raw=true'>DLXWJD_2017week50.torrent</a></td>     
+       <td><a href='https://github.com/goodabc/news/blob/master/Bt_Emule/JRDJ_2017week51.torrent?raw=true'>JRDJ_2017week51.torrent</a></td>
+       <td><a href='https://github.com/goodabc/news/blob/master/Bt_Emule/DLXWJD_2017week51.torrent?raw=true'>DLXWJD_2017week51.torrent</a></td>     
      <tr>
          <tr>
        <td>2017-1211~1217</td>
