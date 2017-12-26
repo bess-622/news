@@ -1,7 +1,6 @@
 <TABLE>
      <tbody>  
-       <IMG SRC="https://github.com/goodabc/news/blob/master/Bt_Emule/bt.jpg">
-      <IMG SRC="https://github.com/goodabc/news/blob/master/Bt_Emule/y_0034.gif">         
+       <IMG SRC="https://github.com/goodabc/news/blob/master/Bt_Emule/bt.jpg">       
          <tr><td><a href='https://github.com/goodabc/news/blob/master/Bt_Emule/Bt_Emule.zip?raw=true'>utorrent(bt)、电骡程式</a></td>  </tr>
          <tr><td><a href='https://github.com/goodabc/news/blob/master/Bt_Emule/ed2k.txt?raw=true'>ed2k+utorrent_magnet.txt</a></td>  </tr>
    <tr>
