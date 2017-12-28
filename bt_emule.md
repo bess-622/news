@@ -3,6 +3,11 @@
        <IMG SRC="https://github.com/goodabc/news/blob/master/Bt_Emule/bt.jpg">       
          <tr><td><a href='https://github.com/goodabc/news/blob/master/Bt_Emule/Bt_Emule.zip?raw=true'>utorrent(bt)、电骡程式</a></td>  </tr>
          <tr><td><a href='https://github.com/goodabc/news/blob/master/Bt_Emule/ed2k.txt?raw=true'>ed2k+utorrent_magnet.txt</a></td>  </tr>
+<tr>
+       <td>【传奇时代】街对面的烛光</td>
+      <td><a href='https://github.com/goodabc/news/blob/master/Bt_Emule/candleLight.torrent?raw=true'>JRDJ_2017week51.torrent</a></td>
+ <td><a href='https://github.com/goodabc/news/blob/master/Bt_Emule/ed2k.txt?raw=true'>ed2k+utorrent_magnet.txt</a></td>
+     </tr>	       
    <tr>
        <td>一周日期</td>
        <td>今日点击、中國禁聞一周MP4下载</td>
