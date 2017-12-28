@@ -6,7 +6,7 @@
 	       <tr>
        <td>【传奇时代】街对面的烛光</td>
         <td><a href='https://github.com/goodabc/news/blob/master/Bt_Emule/candleLight.torrent?raw=true'>JRDJ_2017week51.torrent</a></td>
-	  <td><a href='https://github.com/goodabc/news/blob/master/Bt_Emule/ed2k.txt?raw=true'>ed2k+utorrent_magnet.txt</a>
+	  <td><a href='https://github.com/goodabc/news/blob/master/Bt_Emule/ed2k.txt?raw=true'>电骡 ed2k</a>
      </tr>
    <tr>
        <td>一周日期</td>
